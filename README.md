@@ -3,6 +3,7 @@ Data Science and its libraries will be available in this repository.
 
 
 Basic requirements:
+
 1)Sql
 
 2)Python - Intermediate level
